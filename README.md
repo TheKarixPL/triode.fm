@@ -11,7 +11,7 @@ This program is licensed under GNU GPL 3.0 license
     <li>.NET Core 6 SDK</li>
     <li>ASP.NET Core 6 SDK</li>
     <li>PostgreSQL v. 13 or later</li>
-    <li>Discord token witch can be optained via [Discord Developer Portal](https://discord.com/developers/docs/intro)</li>
+    <li>Discord token which can be optained via [Discord Developer Portal](https://discord.com/developers/docs/intro)</li>
 </ul>
 
 ### Building
